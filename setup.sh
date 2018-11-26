@@ -33,7 +33,7 @@ Type=Application
 Terminal=false
 Exec=$PWD/run.sh
 Name=Simplicity Studio v4
-Icon=$PWD/SimplicityStudio_v4/icon.xpm
+Icon=$PWD/$SIMPLICITY_STUDIO_DIR/icon.xpm
 EOF
 }
 createLaunchIcon
